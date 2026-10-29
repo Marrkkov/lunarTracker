@@ -1,0 +1,10 @@
+node_modules/
+dist/
+tests/.native/
+tests/notification-test.dat
+skin/Lunar/@Resources/NotificationState.dat
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

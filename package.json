@@ -1,0 +1,16 @@
+{
+  "name": "lunar-rainmeter",
+  "version": "0.1.2",
+  "private": true,
+  "description": "Development tools only; the Rainmeter skin has no npm runtime dependencies",
+  "scripts": {
+    "test": "node tests/run.cjs",
+    "assets": "node tools/render.cjs",
+    "package": "node tools/package.cjs"
+  },
+  "devDependencies": {
+    "fengari": "0.1.5",
+    "jpeg-js": "0.4.4",
+    "pngjs": "7.0.0"
+  }
+}
